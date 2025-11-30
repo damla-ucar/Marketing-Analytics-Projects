@@ -1,2 +1,2 @@
 # Marketing-Analytics-Projects
-Projects applying marketing and strategy
+A work-in-progress repository showcasing marketing analytics, customer segmentation, and strategy-oriented projects.
